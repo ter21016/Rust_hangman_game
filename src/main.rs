@@ -42,6 +42,8 @@ impl Word {
     }
 }
 
+
+// Manages the game state: the word, guessed letters, and incorrect guesses.
 struct Guess {
     // the player's guessed character
     letter: char,
