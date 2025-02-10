@@ -1,0 +1,10 @@
+celery
+cucumber
+lettuce
+onion
+spinach
+asparagus
+beetroot
+broccoli
+carrot
+cauliflower

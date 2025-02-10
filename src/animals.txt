@@ -1,0 +1,10 @@
+cat
+Dog
+giraffe
+snake
+dolphin
+albatross
+alligator
+alpaca
+parrot
+wolf
